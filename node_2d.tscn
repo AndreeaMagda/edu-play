@@ -10667,13 +10667,11 @@ centered = false
 
 [node name="Trapped2" type="Sprite2D" parent="Trapped"]
 position = Vector2(6650, -2850)
-scale = Vector2(1, 1)
 texture = ExtResource("10_ek6h1")
 centered = false
 
 [node name="Trapped3" type="Sprite2D" parent="Trapped"]
 position = Vector2(1900, -6650)
-scale = Vector2(1, 1)
 texture = ExtResource("10_ek6h1")
 centered = false
 
